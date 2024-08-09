@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/fcjack/poc-release-please/compare/v1.1.0...v1.2.0) (2024-08-09)
+
+
+### Features
+
+* add config package ([#7](https://github.com/fcjack/poc-release-please/issues/7)) ([0b2a514](https://github.com/fcjack/poc-release-please/commit/0b2a514ce3d6e1bb9fc747a878db28d13b0e9f32))
+
+
+### Bug Fixes
+
+* hello message ([5678f09](https://github.com/fcjack/poc-release-please/commit/5678f09641a8d44ebfaf9cdbf053999da6e62db4))
+
 ## [1.1.0](https://github.com/fcjack/poc-release-please/compare/v1.0.0...v1.1.0) (2024-08-09)
 
 
