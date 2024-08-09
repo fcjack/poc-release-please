@@ -34,6 +34,21 @@
                     "hidden": true
                 },
                 {
+                    "section": "Code Refactoring",
+                    "type": "refactor",
+                    "hidden": false
+                },
+                {
+                    "section": "Reverts",
+                    "type": "revert",
+                    "hidden": false
+                },
+                {
+                    "section": "Tests",
+                    "type": "test",
+                    "hidden": false
+                },
+                {
                     "section": "Miscellaneous Chores",
                     "type": "chore",
                     "hidden": false
