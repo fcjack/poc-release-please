@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/fcjack/poc-release-please/compare/v1.2.0...v1.3.0) (2024-08-09)
+
+
+### Features
+
+* update message ([9bc718d](https://github.com/fcjack/poc-release-please/commit/9bc718d71ccd538120d0c22b0e8ef57c28cd919e))
+
+
+### Bug Fixes
+
+* message ([dbed588](https://github.com/fcjack/poc-release-please/commit/dbed588d8bde63ccb684034288554e95543b8baf))
+
 ## [1.2.0](https://github.com/fcjack/poc-release-please/compare/v1.1.0...v1.2.0) (2024-08-09)
 
 
