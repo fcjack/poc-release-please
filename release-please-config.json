@@ -29,6 +29,11 @@
                     "hidden": false
                 },
                 {
+                    "section": "Dependencies",
+                    "type": "deps",
+                    "hidden": false
+                },
+                {
                     "section": "CI/CD",
                     "type": "ci",
                     "hidden": true
