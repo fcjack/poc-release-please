@@ -1,0 +1,8 @@
+{
+    "packages": {
+        ".": {
+            "component": "poc-release-please",
+            "include-component-in-tag": false
+        }
+    }
+}
