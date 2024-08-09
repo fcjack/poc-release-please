@@ -3,6 +3,7 @@
         ".": {
             "component": "poc-release-please",
             "include-component-in-tag": false,
+            "release-type": "go",
             "changelog-types": [
                 {
                     "type": "feat",
