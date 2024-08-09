@@ -6,7 +6,6 @@
             "bump-patch-for-minor-pre-major": false,
             "draft": false,
             "prerelease": false,
-            "release-type": "python",
             "changelog-sections": [
                 {
                     "section": "Features",
