@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.1](https://github.com/fcjack/poc-release-please/compare/v0.1.0...v0.1.1) (2024-08-09)
+
+
+### Dependencies
+
+* update dependencies ([ccbb53b](https://github.com/fcjack/poc-release-please/commit/ccbb53b40caee15f460746e5b4b8d6649a777224))
+
+
+### Code Refactoring
+
+* message ([04fe67f](https://github.com/fcjack/poc-release-please/commit/04fe67fa4bdabb34a506656986638e5069405fb3))
+
+
+### Miscellaneous Chores
+
+* chore fix ([35108a9](https://github.com/fcjack/poc-release-please/commit/35108a9aa98ce8ee796e993c0869e38f10ce55ab))
+* update message ([e3e76a3](https://github.com/fcjack/poc-release-please/commit/e3e76a30309d7ba78ddb8d0f72b6b7f28d03ff98))
+
 ## 0.1.0 (2024-08-09)
 
 
